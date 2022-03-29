@@ -9,3 +9,5 @@
 "# cedarcrest-git" 
 "# stutern-git" 
 "# learn-git" 
+"# cedarcrest-git" 
+"# stutern.text" 
